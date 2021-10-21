@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973617375799",
+    "project_id": "parcialcrud-84020",
+    "storage_bucket": "parcialcrud-84020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973617375799:android:44da48b35ae64c291fadb2",
+        "android_client_info": {
+          "package_name": "com.example.parcial_crud03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973617375799-knp2j04d63dmoe61th8e3gtpjjlsoh0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGAju3VbrLukv5D9fYlrshm_ODadPBpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973617375799-knp2j04d63dmoe61th8e3gtpjjlsoh0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
